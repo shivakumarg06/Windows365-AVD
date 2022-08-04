@@ -1,0 +1,11 @@
+<HTML>
+<title> AVD Email Triggere Test <\title>
+        <h1> "Nothing just for a Fun" </h1>
+
+        <Body>
+            <h3>UserName: $($UserAccount.DisplayName) </h3>
+            
+            <p> "Body Email Message Testing...." </p>
+        </body>
+
+</html>
